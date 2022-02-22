@@ -1,7 +1,7 @@
-# AUTOMATIC ACCOUNTANCY APP
+# Automatic accountancy app
 
 The purpose of this project is to build an application able to recognize invoices and automatically account those by using a national accountancy plan.
-Th task of recognize the invoice will be perform by using computer vision and transforming the information into tabular format.
+The task of recognize the invoice will be perform by using computer vision and transforming this information into tabular format.
 
 ## About the authors:
 
